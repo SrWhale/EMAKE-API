@@ -1,0 +1,29 @@
+{
+  "name": "bot_wpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.55.2",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fast-xml-parser": "^4.2.5",
+    "fcm-node": "^1.6.1",
+    "fetch-cookie": "^2.1.0",
+    "firebase": "^8.10.0",
+    "firebase-admin": "^11.8.0",
+    "node-cron": "^3.0.2",
+    "puppeteer": "^20.8.2",
+    "randomstring": "^1.2.3",
+    "simpl.db": "^2.12.1",
+    "suap-sdk": "^1.9.2"
+  }
+}

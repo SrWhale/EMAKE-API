@@ -1,0 +1,18 @@
+node_modules
+_IGNORE_BOT
+.env
+collections
+cert.pem
+key.pem
+service.json
+squarecloud.app
+package-lock.json
+squarecloud.config
+BOT.data.json
+credentials.json
+
+# managed
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed
